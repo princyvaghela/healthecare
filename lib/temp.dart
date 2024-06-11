@@ -29,9 +29,7 @@ class _TempState extends State<Temp> {
                 borderRadius: BorderRadius.only(topLeft: Radius.circular(30),topRight: Radius.circular(30)),
                 color: Colors.white
               ),
-
-            )
-
+            ),
           ],
         ),
       ),
